@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.Nav {
+    margin-right: 100px;
+    margin-left: 80px;
+    font-size: xx-large;
+}
+.header {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    border-bottom: solid;
+    border-color: black;
+    height: 100%;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 300px;
+    font-style: normal;
+
+}
+.a {
+    margin-left: 60px;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+.a:hover{
+    color: blueviolet;
+}
+.search1 {
+    color: gray;
+    padding-top: 20px;
+    margin-left: 200px;
+    color: aliceblue;
+    width: 300px;
+    height: 40px;
+}
+.bar {
+    margin-right: 2%;
+    font-size: xx-large;
+}
+.section {
+    display: flex;
+}
+.left {
+    position: relative;
+    width: 300px;
+    font-size: 28px;
+    line-height: 70px;
+    text-align: center;
+    margin-left: 5%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    color: aliceblue;
+    height: 550px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+}
+.b {
+    text-decoration: none;
+    color: white;
+    font-weight: 400px;
+    list-style-type: none;
+}
+.b:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.right {
+    width: 800px;
+    height: 100%;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 400px;
+}
+.search2 {
+    background-color: black;
+    padding-left: 10px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+.searchbar {
+    background-color: rgb(59, 55, 55);
+    border: 1px;
+    border-color: grey;
+    padding: 2%;
+    color: aliceblue;
+    width: 290px;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 2%;
+}
+div>h1 {
+    font-weight: 100px;
+}
+.head {
+    margin-top: 0%;
+    background-color: black;
+    color: aliceblue;
+    height: 70px;
+    width: 400px;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: xx-large;
+}
+.c {
+    margin: 30px 0px 5px 61px;
+    text-decoration: none;
+    color: black;
+    font-size: 70px;
+    text-transform: uppercase;
+}
+.d {
+    margin: 0px 0px 5px 61px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 70px;
+    text-transform: uppercase;
+}
+.f {
+    margin: 0px 0px 5px 61px;
+    text-decoration: none;
+    border: 10px solid black;
+    color: black;
+    font-size: 60px;
+    text-transform: uppercase;
+}
